@@ -1,0 +1,7 @@
+C:\Users\yebsc\OneDrive\Documents\semester3\fisrsProject\fisrsProject\bin\Debug\fisrsProject.exe.config
+C:\Users\yebsc\OneDrive\Documents\semester3\fisrsProject\fisrsProject\bin\Debug\fisrsProject.exe
+C:\Users\yebsc\OneDrive\Documents\semester3\fisrsProject\fisrsProject\bin\Debug\fisrsProject.pdb
+C:\Users\yebsc\OneDrive\Documents\semester3\fisrsProject\fisrsProject\obj\Debug\fisrsProject.csprojAssemblyReference.cache
+C:\Users\yebsc\OneDrive\Documents\semester3\fisrsProject\fisrsProject\obj\Debug\fisrsProject.csproj.CoreCompileInputs.cache
+C:\Users\yebsc\OneDrive\Documents\semester3\fisrsProject\fisrsProject\obj\Debug\fisrsProject.exe
+C:\Users\yebsc\OneDrive\Documents\semester3\fisrsProject\fisrsProject\obj\Debug\fisrsProject.pdb

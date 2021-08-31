@@ -1,0 +1,13 @@
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\bin\Debug\netcoreapp3.1\myFirstProjectWithGit.exe
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\bin\Debug\netcoreapp3.1\myFirstProjectWithGit.deps.json
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\bin\Debug\netcoreapp3.1\myFirstProjectWithGit.runtimeconfig.json
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\bin\Debug\netcoreapp3.1\myFirstProjectWithGit.runtimeconfig.dev.json
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\bin\Debug\netcoreapp3.1\myFirstProjectWithGit.dll
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\bin\Debug\netcoreapp3.1\myFirstProjectWithGit.pdb
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\obj\Debug\netcoreapp3.1\myFirstProjectWithGit.csprojAssemblyReference.cache
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\obj\Debug\netcoreapp3.1\myFirstProjectWithGit.AssemblyInfoInputs.cache
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\obj\Debug\netcoreapp3.1\myFirstProjectWithGit.AssemblyInfo.cs
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\obj\Debug\netcoreapp3.1\myFirstProjectWithGit.csproj.CoreCompileInputs.cache
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\obj\Debug\netcoreapp3.1\myFirstProjectWithGit.dll
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\obj\Debug\netcoreapp3.1\myFirstProjectWithGit.pdb
+C:\Users\yebsc\OneDrive\Documents\semester3\c#\myFirstProjectWithGit\myFirstProjectWithGit\obj\Debug\netcoreapp3.1\myFirstProjectWithGit.genruntimeconfig.cache
